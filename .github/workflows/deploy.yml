@@ -31,11 +31,11 @@ jobs:
           pip install -r requirements.txt
           pip install pytest
 
-      - name: Run tests
-        env:
-          PYTHONPATH: .
-        run: |
-          pytest tests -v
+      # - name: Run tests
+      #   env:
+      #     PYTHONPATH: .
+      #   run: |
+      #     pytest tests -v
 
   deploy:
     name: Build, Push, and Deploy

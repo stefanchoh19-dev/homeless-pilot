@@ -60,3 +60,5 @@ build/
 
 lambda.zip
 lambda_handler.zip
+
+venv_homeless-pilot/

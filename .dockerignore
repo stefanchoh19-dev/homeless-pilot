@@ -1,0 +1,46 @@
+# Git
+.git
+.gitignore
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+venv*/
+
+# Terraform
+terraform/
+.terraform/
+*.tfstate
+*.tfvars
+
+# Tests
+tests/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Local data
+data/
+*.csv
+
+# Logs
+*.log
+
+# Docker
+Dockerfile*
+.dockerignore
+
+# Documentation
+README.md
+
+# Build artifacts
+dist/
+build/
+*.egg-info/

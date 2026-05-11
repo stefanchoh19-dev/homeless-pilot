@@ -5,7 +5,7 @@ from urllib.parse import unquote_plus
 
 import boto3
 
-from etl import load_data, clean_data, merge_data, generate_summary
+from app.etl import load_data, clean_data, merge_data, generate_summary
 
 s3 = boto3.client("s3")
 

@@ -1,13 +1,9 @@
 hid_anxiety,encounter_date,anxiety_lvl,canonical_id,identifier,hid_demo,registration_date,first_name,last_name,middle_name,date_of_birth,gender,race#1,shelter
-HM15-18,2019-05-01,4,18,17,018-15,2007-05-26,Annetta,Person,Alma,07-31-1970,Female,Black or African American,Billy's Shelter
-HM15-18,2019-05-29,2,18,17,018-15,2007-05-26,Annetta,Person,Alma,07-31-1970,Female,Black or African American,Billy's Shelter
-HM15-3,2019-05-25,10,3,2,003-15,2000-07-30,Captain,American,Wonder,12-10-1997,Female,American Indian or Alaska Native,Have Hope Shelter
-HM15-19,2019-05-25,9,19,18,019-15,2004-04-05,Smith,Boy,Green,04-09-1986,Male,Unknown,Have Hope Shelter
-HM15-5,2019-05-25,8,5,4,005-15,2013-05-19,Tamala,Man,Blue,01-11-1992,Male,Unknown,Have Hope Shelter
-HM15-5,2019-05-28,6,5,4,005-15,2013-05-19,Tamala,Man,Blue,01-11-1992,Male,Unknown,Have Hope Shelter
-HM15-2,2019-05-28,6,2,1,002-15,2007-01-05,Mao,Woman,Smith,12-03-1984,Male,American Indian or Alaska Native,Have Hope Shelter
-HM15-6,2019-01-01,8,6,5,006-15,2010-12-05,Donte,Human,Wonder,04-20-1972,Female,Not Reported,Have Hope Shelter
-HM15-1,2019-03-05,9,1,0,001-15,2007-01-09,Meri,American,Red,02-25-1981,Male,Unknown,Billy’s Shelter
-HM15-1,2019-10-08,2,1,0,001-15,2007-01-09,Meri,American,Red,02-25-1981,Male,Unknown,Billy’s Shelter
-HM15-1,2019-11-11,2,1,0,001-15,2007-01-09,Meri,American,Red,02-25-1981,Male,Unknown,Billy’s Shelter
-HM15-1,2019-11-11,3,1,0,001-15,2007-01-09,Meri,American,Red,02-25-1981,Male,Unknown,Billy’s Shelter
+HM15-18,2019-05-01,4.0,18,17,018-15,2007-05-26,Annetta,Person,Alma,07-31-1970,Female,Black or African American,Billy's Shelter
+HM15-18,2019-05-29,2.0,18,17,018-15,2007-05-26,Annetta,Person,Alma,07-31-1970,Female,Black or African American,Billy's Shelter
+HM15-3,2019-05-25,10.0,3,2,003-15,2000-07-30,Captain,American,Wonder,12-10-1997,Female,American Indian or Alaska Native,Have Hope Shelter
+HM15-19,2019-05-25,9.0,19,18,019-15,2004-04-05,Smith,Boy,Green,04-09-1986,Male,Unknown,Have Hope Shelter
+HM15-5,2019-05-25,8.0,5,4,005-15,2013-05-19,Tamala,Man,Blue,01-11-1992,Male,Unknown,Have Hope Shelter
+HM15-5,2019-05-28,6.0,5,4,005-15,2013-05-19,Tamala,Man,Blue,01-11-1992,Male,Unknown,Have Hope Shelter
+HM15-2,2019-05-28,6.0,2,1,002-15,2007-01-05,Mao,Woman,Smith,12-03-1984,Male,American Indian or Alaska Native,Have Hope Shelter
+HM15-6,2019-01-01,8.0,6,5,006-15,2010-12-05,Donte,Human,Wonder,04-20-1972,Female,Not Reported,Have Hope Shelter

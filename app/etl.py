@@ -1,7 +1,7 @@
 import pandas as pd
 import boto3
 from io import StringIO
-from app.config import (
+from config import (
     ENV,
     AWS_REGION,
     S3_BUCKET,

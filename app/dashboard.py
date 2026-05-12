@@ -5,7 +5,7 @@ import boto3
 import pandas as pd
 import streamlit as st
 
-from config import (
+from app.config import (
     ENV,
     AWS_REGION,
     S3_BUCKET,

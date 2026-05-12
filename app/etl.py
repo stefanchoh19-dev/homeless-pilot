@@ -147,19 +147,7 @@ def run_etl():
     save_processed_data(merged)
 
     return merged, monthly, shelter_summary
-
-
-anxiety, demographics = load_data()
-
-
-
-anxiety_clean, demographics_clean = clean_data(anxiety, demographics)
-
-
-
-merged = merge_data(anxiety_clean, demographics_clean)
-
-
+  
 # run the etl 
 if __name__  == "__main__":
   run_etl()
